@@ -8,7 +8,7 @@ The project is structured in 3 parts
 
 *** key results ***
 
-You can see the findings and results in the presentation folder or follow the link here:
+You can see the findings and results in the presentation folder or follow the link here and see also fancy gifs working:
 https://docs.google.com/presentation/d/1rsgSdD07x5llm9iqwYXc51g9HK4YowvrZKb0EMAbfQo/edit#slide=id.g12199ab7137_0_165
 
 
